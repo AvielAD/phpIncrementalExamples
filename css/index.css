@@ -5,3 +5,7 @@
 .tablacss td{
     border: 4.5px solid black;
 }
+.grey{
+    background: grey;
+    color: white;
+}
